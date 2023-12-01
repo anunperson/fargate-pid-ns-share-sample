@@ -19,7 +19,7 @@ PID namespace共有+PTRACEを用いてweb, appコンテナを監視する事を�
 CDKとか面倒なので各々手動でやってください。
 
 ### ECRでリポジトリ作成
-test-nginx, test-app, test-alpine という名前で作る。
+test-web, test-app, test-alpine という名前で作る。
 
 ### イメージのbuild & push
 リポジトリをcloneし、各dirにて以下実行
